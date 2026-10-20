@@ -1,0 +1,7 @@
+{
+  "name": "app-produtividade",
+  "private": true,
+  "dependencies": {
+    "redis": "^4.7.0"
+  }
+}
